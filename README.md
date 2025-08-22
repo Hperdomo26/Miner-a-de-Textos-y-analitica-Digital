@@ -1,4 +1,4 @@
-# Miner-a-de-Textos-y-analitica-Digital
+# Mineria-de-Textos-y-analitica-Digital
 Minería de Textos y analitica Digital  
 
 
